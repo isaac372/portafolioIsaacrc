@@ -1,0 +1,20 @@
+[
+  {
+    "dates": "2024 - Present",
+    "company": "Precredit",
+    "description": "Desarrollo de módulos adaptables al usuario final para cooperativas financieras. Automatización de procesos clave dentro de la fábrica de créditos, incluyendo análisis, documentación, gestión y desembolso. Trabajo bajo metodología Scrum con implementación en .NET, JavaScript y SQL Server, aplicando pruebas unitarias e integración continua.",
+    "svgIcon": "<svg class='size-4 text-gray-600 dark:text-gray-400' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'> <path stroke-linecap='round' stroke-width='2' d='M8 8V6a2 2 0 012-2h4a2 2 0 012 2v2' /> <path stroke-linecap='round' stroke-width='2' d='M4 14l3.15.787a20 20 0 009.7 0L20 14' /> <path stroke-linejoin='round' stroke-width='2' d='M4 10a2 2 0 012-2h12a2 2 0 012 2v8a2 2 0 01-2 2H6a2 2 0 01-2-2v-8z' /><circle cx='12' cy='12' r='1' /></svg>"
+  },
+  {
+    "dates": "2022 - 2024",
+    "company": "DISDEL S.A.",
+    "description": "Jefe de IT: Dirección de proyectos móviles y web, mantenimiento de ERP general con integración SAP B1. Desarrollo Web: Implementación de servicios RESTful y mantenimiento de módulos ERP SAP, mejora de interfaces web (ReactJS, GatsbyJS) y móviles (Xamarin C#), aplicando arquitectura MVC en ASP .NET.",
+    "svgIcon": "<svg class='size-4 text-gray-600 dark:text-gray-400' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'> <path stroke-linecap='round' stroke-width='2' d='M3 7h18M3 12h18M3 17h18' /></svg>"
+  },
+  {
+    "dates": "2019 - 2022",
+    "company": "DISDEL S.A.",
+    "description": "Desarrollador Web: Implementación de servicios RESTful y mantenimiento de módulos ERP SAP, mejora de interfaces web y móviles, y desarrollo en arquitectura MVC en ASP .NET.",
+    "svgIcon": "<svg class='size-4 text-gray-600 dark:text-gray-400' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'> <path stroke-linecap='round' stroke-width='2' d='M4 6h16M4 12h16M4 18h16' /></svg>"
+  }
+]

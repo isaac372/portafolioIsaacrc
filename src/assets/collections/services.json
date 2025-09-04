@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Landing Page",
+    "price": 4000, 
+    "description": "Perfecto para negocios que buscan una presencia profesional en línea.",
+    "benefits": [
+      "Código de alta calidad",
+      "Diseño completamente responsivo",
+      "Estructura optimizada para SEO",
+      "Carga rápida",
+      "1 revisión adicional gratuita después del lanzamiento"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Sitio E-Commerce",
+    "price": 6000,
+    "description": "Ideal para vender productos en línea con seguridad y facilidad.",
+    "benefits": [
+      "Código de alta calidad",
+      "Tienda en línea completamente responsiva",
+      "Integración segura de pasarela de pagos",
+      "Sistema de gestión de productos",
+      "Soporte y mantenimiento continuo"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "E-Commerce + Panel Administrativo",
+    "price": 10000,
+    "description": "Perfecto para negocios que quieren control total sobre su tienda en línea.",
+    "benefits": [
+      "Código de alta calidad",
+      "Tienda en línea completamente responsiva",
+      "Integración segura de pasarela de pagos",
+      "Panel administrativo personalizado",
+      "Analíticas y reportes avanzados",
+      "Soporte y mantenimiento continuo"
+    ]
+  }
+]
