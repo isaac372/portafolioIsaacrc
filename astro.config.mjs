@@ -12,6 +12,8 @@ export default defineConfig({
       MY_EMAIL: envField.string({ context: "server", access: "secret" }),
     },
   },
-  output: "server",
-  adapter: vercel(),
+  output: "server", // Serverless
+  adapter: vercel({
+    edge: false, // solo serverless, no edge
+  }),
 });
